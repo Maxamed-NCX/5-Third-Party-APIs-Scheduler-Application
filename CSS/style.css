@@ -1,0 +1,99 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+textarea{
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+  width: 1000px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: rgb(66, 183, 122);
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid rgb(164, 52, 52);
+}
+
+.description{
+  white-space: pre-wrap;
+}
+
+.time-block{
+  text-align: center;
+  border-radius: 15px;
+}
+
+.form-control {
+  border: black solid 1px;
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px solid white;;
+}
+
+.hour {
+  background-color: #06AED5;
+  color: #d3e816;
+  border-top: 2px dashed #000000;
+  width: 100px;
+
+}
+
+#yesterday {
+  background-color: #400901;
+  color: rgb(247, 247, 247);
+}
+
+.past {
+  background-color: #b64848;
+  color: rgb(68, 255, 0);
+}
+
+.present {
+  background-color: #d0e16f;
+  color: rgb(0, 0, 0);
+}
+
+.future {
+  background-color: #4de54d;
+  color: rgb(255, 255, 255);
+}
+
+#tomorrow {
+  background-color: #0015ff;
+  color: rgb(252, 252, 255);
+}
+
+
+
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #f5f5f5;
+  color: rgb(105, 105, 104);
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all .3s ease-in-out;
+}
+
+.cleaerbtn {
+  margin: 100px;
+  border-width: 40px;
+  display: flex;
+  justify-content: center;
+  ;
+
+}
