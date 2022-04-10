@@ -46,7 +46,10 @@ To create a JavaScript Work Scheduler and utilitizing some JQuery functions in c
 
 #### images
 
-<img width="400" alt=" Main Page" src="https://raw.githubusercontent.com/Mcnoor/Challenge5-BC-/0742b5255ac38ccee370062811c9f951bcef597b/images/bottom%20of%20scheduler.png">
 
-<img width="400" alt=" https://raw.githubusercontent.com/Mcnoor/Challenge5-BC-/main/images/top%20of%20scheduler.png">
+<img width="400" alt=" top of scheduler" src="https://raw.githubusercontent.com/Mcnoor/Challenge5-BC-/main/images/top%20of%20scheduler.png">
+
+<img width="400" alt=" Bottom of scheduler" src="https://raw.githubusercontent.com/Mcnoor/Challenge5-BC-/0742b5255ac38ccee370062811c9f951bcef597b/images/bottom%20of%20scheduler.png">
+
+
 
