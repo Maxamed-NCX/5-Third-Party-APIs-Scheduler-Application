@@ -32,7 +32,7 @@ To create a JavaScript Work Scheduler and utilitizing some JQuery functions in c
   - https://github.com/coding-boot-camp/super-disco
 
 - MCX
-  - HTML & CSS Starter Codes
+  - HTML & CSS Codes
   - JS Program Function codes
 
 #### Site
