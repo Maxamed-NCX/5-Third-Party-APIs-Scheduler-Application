@@ -1,7 +1,7 @@
 # Challenge5-BC-
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Mcnoor/Challenge5-BC-)
-![GitHub top language](https://img.shields.io/github/languages/top/Mcnoor/Challenge5-BC-)
+![GitHub repo size](https://img.shields.io/github/repo-size/Maxamed-NCX/5-Third-Party-APIs-Scheduler-Application)
+![GitHub top language](https://img.shields.io/github/languages/top/Maxamed-NCX/5-Third-Party-APIs-Scheduler-Application)
 
 ## UofM BootCamp: Work Day Scheduler
 
