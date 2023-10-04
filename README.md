@@ -29,7 +29,10 @@ To create a JavaScript Work Scheduler and utilitizing some JQuery functions in c
 
 - UofM BootCamp
   - HTML & CSS Starter Codes
-  - https://github.com/coding-boot-camp/super-disco
+
+## **_Starter Code_**
+[Deployed-Project](https://github.com/coding-boot-camp/super-disco)
+
 
 - MCX
   - HTML & CSS Codes
