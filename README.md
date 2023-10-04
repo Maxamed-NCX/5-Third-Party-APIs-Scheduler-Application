@@ -1,4 +1,4 @@
-# Challenge5-BC-
+# Challenge5-BC
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Maxamed-NCX/5-Third-Party-APIs-Scheduler-Application)
 ![GitHub top language](https://img.shields.io/github/languages/top/Maxamed-NCX/5-Third-Party-APIs-Scheduler-Application)
@@ -37,10 +37,13 @@ To create a JavaScript Work Scheduler and utilitizing some JQuery functions in c
 
 #### Site
 
-- GitHub Public Repo
-  - https://github.com/Mcnoor/Challenge5-BC-
-- GitHub Page Link
-  - https://mcnoor.github.io/Challenge5-BC-/
+
+## **_Link URL to deployed website on GitHub_**
+[Deployed-Project](https://Maxamed-NCX.github.io/5-Third-Party-APIs-Scheduler-Application/)
+
+## **_Link URL to GitHub Repository_**
+
+[Github-Repo](https://github.com/Maxamed-NCX/5-Third-Party-APIs-Scheduler-Application)
 
 
 
